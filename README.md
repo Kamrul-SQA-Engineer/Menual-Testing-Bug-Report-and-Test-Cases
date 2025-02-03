@@ -1,3 +1,3 @@
 # MenualTesting
-Bug Report
+Bug Report and
 Test Cases
